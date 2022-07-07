@@ -1,5 +1,6 @@
-# egg-view-vue-ssr
+# egg-view-vue-ssr-zk
 
+### fork自egg-view-vue-ssr，仅设置vue版本~2.6.14
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
