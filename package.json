@@ -1,6 +1,6 @@
 {
-  "name": "egg-view-vue-ssr",
-  "version": "3.3.3",
+  "name": "egg-view-vue-ssr-zk",
+  "version": "0.0.1",
   "description": "vue server side render solution for egg",
   "eggPlugin": {
     "name": "vuessr"
@@ -16,7 +16,7 @@
     "lru-cache": "^4.0.1",
     "serialize-javascript": "^4.0.0",
     "server-side-render-resource": "^1.0.3",
-    "vue-server-renderer": "^2.5.13"
+    "vue-server-renderer": "~2.6.14"
   },
   "peerDependencies": {
     "vue": "*"
